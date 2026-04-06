@@ -84,7 +84,3 @@ Hi, I’m **Sanket Wali**, an aspiring Data Analyst with a strong interest in so
 
 ## 🎯 Career Objective  
 To leverage my data analytics skills to support **data-driven decision-making** and contribute to business growth in a dynamic organization.
-
----
-
-⭐ If you found this repository valuable, feel free to **star it**!# Task-5--Internship-Portfolio
